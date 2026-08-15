@@ -1,78 +1,68 @@
 <div align="center">
 
-# SANJAY A
-
-### `BCA STUDENT` · `FULL-STACK DEVELOPER`
-
-**I build digital products that turn ideas into working experiences.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=SANJAY%20A&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=BCA%20STUDENT%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+web+applications.;Turning+ideas+into+real+products.;Exploring+AI-assisted+development.;Currently+building+a+Hostel+Management+System." />
+
+<br><br>
+
 <a href="https://github.com/SANZSOW">
-  <img src="https://img.shields.io/badge/GitHub-SANZSOW-111111?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/sanjay-a-a9b6a5361">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20A-111111?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ I BUILD. I EXPERIMENT. I IMPROVE.
 
 </div>
 
 <br>
 
----
-
-## 01 / ABOUT
-
-I'm **Sanjay A**, a final-year BCA student and developer focused on building modern web applications and practical software.
-
-I enjoy taking an idea from **concept → design → development → working product**.
-
-My main focus is **full-stack development**, while I continue exploring AI-assisted development, modern web technologies, and software engineering.
-
-I'm less interested in simply following tutorials and more interested in **building things, experimenting with ideas, and solving actual problems.**
-
-<br>
-
----
-
-## 02 / WHAT I DO
-
 <table>
 <tr>
-<td width="50%">
 
-### FULL-STACK DEVELOPMENT
+<td width="55%" valign="top">
 
-Building applications across the frontend, backend, APIs and databases.
+### 👋 WHO AM I?
 
-</td>
+I'm **Sanjay A**, a final-year **BCA student and developer** from India.
 
-<td width="50%">
+I enjoy taking an idea and turning it into something people can actually use.
 
-### WEB EXPERIENCES
+My main focus is **Full-Stack Development**, while I'm also exploring **AI-assisted development** and software engineering.
 
-Creating modern, responsive and functional websites with attention to detail.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### REAL-WORLD PROJECTS
-
-Turning everyday problems and ideas into practical digital solutions.
+I'm currently focused on building real-world applications rather than just learning through tutorials.
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
-### AI-ASSISTED DEVELOPMENT
+### 🎯 CURRENTLY
 
-Exploring how AI can improve the way applications are designed, built and developed.
+🎓 **Final Year BCA**
+
+💻 **Full-Stack Development**
+
+🏗️ **Building real applications**
+
+🤖 **Exploring AI**
+
+🌱 **Improving Software Engineering**
+
+💼 **Open to Internships & Freelance**
 
 </td>
+
 </tr>
 </table>
 
@@ -80,135 +70,267 @@ Exploring how AI can improve the way applications are designed, built and develo
 
 ---
 
-## 03 / TECHNOLOGY
+<div align="center">
 
-### FRONTEND
+# 🧰 MY DIGITAL TOOLKIT
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
+<br>
 
-### BACKEND
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mongodb,mysql,python,git,github,vscode&perline=7" />
 
-`Node.js`
+<br><br>
 
-### DATABASE
+<sub>Technologies I use, explore and build with.</sub>
 
-`MongoDB` · `SQL`
-
-### PROGRAMMING
-
-`Python`
-
-### TOOLS
-
-`Git` · `GitHub` · `VS Code`
+</div>
 
 <br>
 
 ---
 
-## 04 / SELECTED WORK
+# 🚀 SELECTED PROJECTS
 
-### 🏨 HOSTEL MANAGEMENT SYSTEM
+<br>
 
-**Currently building**
+<table>
+<tr>
 
-A real-world application designed to bring hostel management operations into one centralized digital system.
+<td width="50%" valign="top">
 
-The project is being developed with a focus on usability, structured data, application logic and practical workflows.
+## 🏨 Hostel Management System
 
-**Stack**
+### `ACTIVE DEVELOPMENT`
+
+A real-world application I'm currently building to simplify hostel management through a centralized digital platform.
+
+The goal is to bring hostel operations, information and workflows into one practical system.
+
+<br>
+
+**CURRENT STACK**
 
 `React` `Node.js` `MongoDB` `Tailwind CSS`
 
-`STATUS → ACTIVE DEVELOPMENT`
+<br>
 
----
+🔵 **Currently Building**
 
-### 🛒 E-COMMERCE WEBSITE
+</td>
 
-**Completed**
+<td width="50%" valign="top">
 
-A web-based e-commerce application built to explore modern web development, interface design and application functionality.
+## 🛒 E-Commerce Website
 
-**Stack**
+### `COMPLETED`
+
+A web-based e-commerce project built to explore modern web development, interface design and application functionality.
+
+A project focused on turning a shopping concept into a working web experience.
+
+<br>
+
+**STACK**
 
 `HTML` `CSS` `JavaScript`
 
-`STATUS → COMPLETED`
+<br>
 
----
+🟢 **Completed**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 ---
-
-## 05 / CURRENTLY
-
-```text
-BUILDING
-Hostel Management System
-
-FOCUS
-Full-Stack Development
-
-EXPLORING
-AI-Assisted Development
-
-IMPROVING
-Software Engineering
-
-LOOKING FOR
-Internships · Freelance · Collaborations
-```
-
-<br>
-
----
-
-## 06 / THE DIRECTION
-
-I'm working towards becoming a strong **Web / App Developer and Software Engineer**.
-
-The goal isn't simply to learn more technologies.
-
-It's to become better at:
-
-**Thinking → Designing → Building → Testing → Improving**
-
-and eventually create software that people actually find useful.
-
-<br>
-
----
-
-## 07 / BEYOND THE CODE
-
-When I'm not coding, I enjoy exploring technology, experimenting with new ideas, designing things, and discovering better ways to build.
-
-I'm always curious about **what can be built next.**
-
-<br>
-
----
-
-## 08 / LET'S CONNECT
 
 <div align="center">
 
-### HAVE AN IDEA?
-
-**Let's build something useful.**
+# 🔥 CURRENTLY BUILDING
 
 <br>
 
-<a href="https://github.com/SANZSOW">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E1B4B,100:0F172A&height=100&text=HOSTEL%20MANAGEMENT%20SYSTEM&fontSize=28&fontColor=00E5FF&animation=fadeIn" width="90%"/>
 
- 
+<br><br>
+
+**Taking an idea → designing it → developing it → turning it into a working product.**
+
+<br>
+
+`RESEARCH` → `DESIGN` → `DEVELOP` → `TEST` → `IMPROVE`
+
+</div>
+
+<br>
+
+---
+
+# 🧠 WHAT I'M INTERESTED IN
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**WEB**
+
+Modern websites
+& applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+
+**APPS**
+
+Useful digital
+experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+AI-assisted
+development
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**SOFTWARE**
+
+Engineering &
+problem solving
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🎓 THE JOURNEY
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+**BCA**
+
+<br>
+
+Final Year
+
+</td>
+
+<td>
+
+➜
+
+</td>
+
+<td align="center">
+
+**FULL-STACK**
+
+<br>
+
+Development
+
+</td>
+
+<td>
+
+➜
+
+</td>
+
+<td align="center">
+
+**SOFTWARE**
+
+<br>
+
+Engineering
+
+</td>
+
+<td>
+
+➜
+
+</td>
+
+<td align="center">
+
+**BUILD**
+
+<br>
+
+Real Products
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Development-00F5A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-FF4ECD?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+# 💼 OPEN TO
+
+<div align="center">
+
+### INTERNSHIPS · FREELANCE · COLLABORATIONS
+
+<br>
+
+I'm looking for opportunities where I can **build real things, learn from real problems and contribute to real projects.**
+
+<br>
 
 <a href="https://www.linkedin.com/in/sanjay-a-a9b6a5361">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -219,6 +341,40 @@ I'm always curious about **what can be built next.**
 
 <div align="center">
 
-`SANJAY A` · `BCA` · `FULL-STACK DEVELOPMENT`
+## 🌐 FIND ME AROUND THE WEB
+
+<br>
+
+<a href="https://github.com/SANZSOW">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanjay-a-a9b6a5361">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/SANZSOW">
+
+**github.com/SANZSOW**
+
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/sanjay-a-a9b6a5361">
+
+**linkedin.com/in/sanjay-a-a9b6a5361**
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer" width="100%"/>
 
 </div>
