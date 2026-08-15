@@ -2,117 +2,223 @@
 
 # SANJAY A
 
-### BCA Student · Full-Stack Developer
+### `BCA STUDENT` · `FULL-STACK DEVELOPER`
 
-Building web applications, exploring AI-assisted development,
-and turning ideas into practical digital products.
+**I build digital products that turn ideas into working experiences.**
 
 <br>
 
 <a href="https://github.com/SANZSOW">
-  <img src="https://img.shields.io/badge/GitHub-SANZSOW-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-SANZSOW-111111?style=flat-square&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sanjay-a-a9b6a5361">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Sanjay%20A-111111?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Sanjay A**, a final-year BCA student and developer
-interested in building modern web applications and solving
-real-world problems through technology.
-
-My primary focus is **Full-Stack Development**, while I'm
-also exploring **AI-assisted development** and improving
-my software engineering skills.
-
-- 🎓 Final-year BCA Student
-- 💻 Full-Stack Development
-- 🤖 AI-assisted development
-- 🚀 Building real-world applications
-- 🌱 Continuously learning and experimenting
-- 💼 Open to internships & freelance opportunities
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+## 01 / ABOUT
 
-### Frontend
+I'm **Sanjay A**, a final-year BCA student and developer focused on building modern web applications and practical software.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-</p>
+I enjoy taking an idea from **concept → design → development → working product**.
 
-### Backend & Database
+My main focus is **full-stack development**, while I continue exploring AI-assisted development, modern web technologies, and software engineering.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
+I'm less interested in simply following tutorials and more interested in **building things, experimenting with ideas, and solving actual problems.**
 
-### Programming & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
+<br>
 
 ---
 
-## 🚀 Featured Projects
+## 02 / WHAT I DO
 
-### 🏨 Hostel Management System
+<table>
+<tr>
+<td width="50%">
 
-> **Currently in development**
+### FULL-STACK DEVELOPMENT
 
-A full-stack application designed to simplify hostel
-management by bringing important operations into one
-centralized system.
+Building applications across the frontend, backend, APIs and databases.
 
-**Technologies**
+</td>
+
+<td width="50%">
+
+### WEB EXPERIENCES
+
+Creating modern, responsive and functional websites with attention to detail.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### REAL-WORLD PROJECTS
+
+Turning everyday problems and ideas into practical digital solutions.
+
+</td>
+
+<td width="50%">
+
+### AI-ASSISTED DEVELOPMENT
+
+Exploring how AI can improve the way applications are designed, built and developed.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 03 / TECHNOLOGY
+
+### FRONTEND
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
+
+### BACKEND
+
+`Node.js`
+
+### DATABASE
+
+`MongoDB` · `SQL`
+
+### PROGRAMMING
+
+`Python`
+
+### TOOLS
+
+`Git` · `GitHub` · `VS Code`
+
+<br>
+
+---
+
+## 04 / SELECTED WORK
+
+### 🏨 HOSTEL MANAGEMENT SYSTEM
+
+**Currently building**
+
+A real-world application designed to bring hostel management operations into one centralized digital system.
+
+The project is being developed with a focus on usability, structured data, application logic and practical workflows.
+
+**Stack**
 
 `React` `Node.js` `MongoDB` `Tailwind CSS`
 
+`STATUS → ACTIVE DEVELOPMENT`
+
 ---
 
-### 🛒 E-Commerce Website
+### 🛒 E-COMMERCE WEBSITE
 
-A web-based e-commerce project built to explore
-modern web development, user interfaces and
-application functionality.
+**Completed**
 
-**Technologies**
+A web-based e-commerce application built to explore modern web development, interface design and application functionality.
+
+**Stack**
 
 `HTML` `CSS` `JavaScript`
 
+`STATUS → COMPLETED`
+
 ---
 
-## 📊 GitHub Stats
+<br>
+
+---
+
+## 05 / CURRENTLY
+
+```text
+BUILDING
+Hostel Management System
+
+FOCUS
+Full-Stack Development
+
+EXPLORING
+AI-Assisted Development
+
+IMPROVING
+Software Engineering
+
+LOOKING FOR
+Internships · Freelance · Collaborations
+```
+
+<br>
+
+---
+
+## 06 / THE DIRECTION
+
+I'm working towards becoming a strong **Web / App Developer and Software Engineer**.
+
+The goal isn't simply to learn more technologies.
+
+It's to become better at:
+
+**Thinking → Designing → Building → Testing → Improving**
+
+and eventually create software that people actually find useful.
+
+<br>
+
+---
+
+## 07 / BEYOND THE CODE
+
+When I'm not coding, I enjoy exploring technology, experimenting with new ideas, designing things, and discovering better ways to build.
+
+I'm always curious about **what can be built next.**
+
+<br>
+
+---
+
+## 08 / LET'S CONNECT
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=SANZSOW&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark">
+### HAVE AN IDEA?
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANZSOW&layout=compact&hide_border=true&theme=github_dark">
+**Let's build something useful.**
+
+<br>
+
+<a href="https://github.com/SANZSOW">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/sanjay-a-a9b6a5361">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
+<br>
+
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-```text
-Full-Stack Development
-        ↓
-Real-World Applications
-        ↓
-Backend & Database Skills
-        ↓
-AI-Assisted Development
-        ↓
-Software Engineering
+`SANJAY A` · `BCA` · `FULL-STACK DEVELOPMENT`
+
+</div>
